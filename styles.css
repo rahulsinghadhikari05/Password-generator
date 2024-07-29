@@ -197,6 +197,7 @@ h1 {
     background-color: transparent;
     border:none;
     outline:none;
+    margin-top:10%
 }
 
 .tooltip {
